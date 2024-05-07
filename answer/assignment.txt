@@ -1,0 +1,6 @@
+Assignment:
+
+1. Create a django project named : myblogsite : django-admin startproject myblogsite
+2. Creaste two apps inside it: authentication, blogs
+3. the authentication app must have 2 urls one for login and another for register
+4. the blog app must have 3 urls one for home, one for post and one for post_detail
